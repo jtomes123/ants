@@ -34,3 +34,4 @@ C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Mathematics.xm
 C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\obj\Debug\Ants.csprojResolveAssemblyReference.cache
 C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\obj\Debug\Ants.dll
 C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\obj\Debug\Ants.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\obj\Debug\Ants.csproj.CoreCompileInputs.cache
