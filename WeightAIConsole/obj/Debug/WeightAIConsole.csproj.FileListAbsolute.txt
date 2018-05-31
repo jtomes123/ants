@@ -1,0 +1,8 @@
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\bin\Debug\WeightAIConsole.exe.config
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\bin\Debug\WeightAIConsole.exe
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\bin\Debug\WeightAIConsole.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\bin\Debug\WeightAI.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\bin\Debug\WeightAI.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\obj\Debug\WeightAIConsole.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\obj\Debug\WeightAIConsole.exe
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAIConsole\obj\Debug\WeightAIConsole.pdb

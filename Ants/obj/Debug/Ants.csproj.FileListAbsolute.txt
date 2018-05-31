@@ -1,0 +1,36 @@
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\Ants.pdb
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Desktop.dll
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Direct2D1.dll
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Direct3D11.dll
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.dll
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.DXGI.dll
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Mathematics.dll
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.xml
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Desktop.xml
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Direct2D1.xml
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Direct3D11.xml
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.DXGI.xml
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\SharpDX.Mathematics.xml
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\obj\Debug\Ants.csprojResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 15\Projects\Ants\Ants\obj\Debug\Ants.pdb
+C:\Users\Jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\Ants.dll.config
+C:\Users\Jakub\documents\visual studio 15\Projects\Ants\Ants\bin\Debug\Ants.dll
+C:\Users\Jakub\documents\visual studio 15\Projects\Ants\Ants\obj\Debug\Ants.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\Ants.dll.config
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\Ants.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\Ants.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Desktop.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Desktop.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\obj\Debug\Ants.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\obj\Debug\Ants.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\Ants\obj\Debug\Ants.pdb

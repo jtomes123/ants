@@ -1,0 +1,5 @@
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAI\bin\Debug\WeightAI.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAI\bin\Debug\WeightAI.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAI\obj\Debug\WeightAI.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAI\obj\Debug\WeightAI.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\WeightAI\obj\Debug\WeightAI.pdb

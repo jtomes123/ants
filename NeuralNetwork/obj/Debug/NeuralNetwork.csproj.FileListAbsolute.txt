@@ -1,0 +1,5 @@
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

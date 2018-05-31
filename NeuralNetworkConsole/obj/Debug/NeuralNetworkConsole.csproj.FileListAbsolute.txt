@@ -1,0 +1,8 @@
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\bin\Debug\NeuralNetworkConsole.exe.config
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\bin\Debug\NeuralNetworkConsole.exe
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\bin\Debug\NeuralNetworkConsole.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\bin\Debug\NeuralNetwork.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\bin\Debug\NeuralNetwork.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\obj\Debug\NeuralNetworkConsole.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\obj\Debug\NeuralNetworkConsole.exe
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\NeuralNetworkConsole\obj\Debug\NeuralNetworkConsole.pdb

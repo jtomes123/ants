@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25928.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ants", "Ants\Ants.csproj", "{43A4644B-AEE3-4E92-B241-7D65FC5673F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntsEngineTest", "AntsEngineTest\AntsEngineTest.csproj", "{C6747C2C-C64A-4FEF-AC99-6CDE8E70EA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntsEngine", "AntsEngine\AntsEngine.csproj", "{0A9D3C5F-FBD1-41C6-933B-E68FC8BE9425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{86C19CC6-1043-49C8-83F0-BD11A4276A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworkConsole", "NeuralNetworkConsole\NeuralNetworkConsole.csproj", "{A1C404EA-191C-4531-9885-9AF04E4E0170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightAI", "WeightAI\WeightAI.csproj", "{19A6C0EE-6CF2-4FCB-809D-2CD8FDD47590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightAIConsole", "WeightAIConsole\WeightAIConsole.csproj", "{0EBEDBC1-7197-4DDE-AFB2-DBCE83309FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A4644B-AEE3-4E92-B241-7D65FC5673F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A4644B-AEE3-4E92-B241-7D65FC5673F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A4644B-AEE3-4E92-B241-7D65FC5673F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A4644B-AEE3-4E92-B241-7D65FC5673F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6747C2C-C64A-4FEF-AC99-6CDE8E70EA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6747C2C-C64A-4FEF-AC99-6CDE8E70EA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6747C2C-C64A-4FEF-AC99-6CDE8E70EA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6747C2C-C64A-4FEF-AC99-6CDE8E70EA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9D3C5F-FBD1-41C6-933B-E68FC8BE9425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D3C5F-FBD1-41C6-933B-E68FC8BE9425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9D3C5F-FBD1-41C6-933B-E68FC8BE9425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9D3C5F-FBD1-41C6-933B-E68FC8BE9425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C19CC6-1043-49C8-83F0-BD11A4276A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C19CC6-1043-49C8-83F0-BD11A4276A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C19CC6-1043-49C8-83F0-BD11A4276A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C19CC6-1043-49C8-83F0-BD11A4276A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C404EA-191C-4531-9885-9AF04E4E0170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C404EA-191C-4531-9885-9AF04E4E0170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C404EA-191C-4531-9885-9AF04E4E0170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C404EA-191C-4531-9885-9AF04E4E0170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A6C0EE-6CF2-4FCB-809D-2CD8FDD47590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A6C0EE-6CF2-4FCB-809D-2CD8FDD47590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A6C0EE-6CF2-4FCB-809D-2CD8FDD47590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A6C0EE-6CF2-4FCB-809D-2CD8FDD47590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBEDBC1-7197-4DDE-AFB2-DBCE83309FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBEDBC1-7197-4DDE-AFB2-DBCE83309FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBEDBC1-7197-4DDE-AFB2-DBCE83309FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBEDBC1-7197-4DDE-AFB2-DBCE83309FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

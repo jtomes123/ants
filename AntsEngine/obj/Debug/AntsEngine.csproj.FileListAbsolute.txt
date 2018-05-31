@@ -1,0 +1,17 @@
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\AntsEngine.exe.config
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\AntsEngine.exe
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\AntsEngine.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\Ants.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\Ants.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\SharpDX.Desktop.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\SharpDX.xml
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\obj\Debug\AntsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\obj\Debug\AntsEngine.exe
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\obj\Debug\AntsEngine.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\WeightAI.dll
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\WeightAI.pdb
+C:\Users\Jakub\OneDrive\Visual Studio\Ants\AntsEngine\bin\Debug\Ants.dll.config
