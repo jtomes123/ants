@@ -9,4 +9,4 @@ This was a school project during my 3rd year at Česko-anglické gymnázium. The
     * ShowPaths
         * ShowPaths set true
 
-You will see an anthill spawn, anthill then spawns an ant, who in turn starts looking for food. Anthill then keeps tract of valid paths to food.
+You will see an anthill and food spawn, anthill then spawns an ant, who in turn starts looking for food. Anthill then keeps tract of valid paths to food.
